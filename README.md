@@ -20,7 +20,7 @@
 ---
 
 ## Looking for Arabic Version?
-[![Here it is](Arabic Version Download)](https://www.mediafire.com/file/6lqjltzaj9spn0y/BroadcastControle_V1.6_Encrypted.zip/file)
+[Download it fron here](https://www.mediafire.com/file/6lqjltzaj9spn0y/BroadcastControle_V1.6_Encrypted.zip/file)
 
 
 ---

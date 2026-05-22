@@ -4,7 +4,7 @@
 
 ### **Advanced Multi-Bot Smart Broadcast System for Discord**
 
-[![Version](https://img.shields.io/badge/version-1.6.1-blue.svg?style=for-the-badge)](https://github.com/your-username/broadcast-controle)
+[![Version](https://img.shields.io/badge/version-1.6.1-blue.svg?style=for-the-badge)](https://github.com/Ah-Med0/BroadCast-controle-v1.6.1)
 [![Discord.js](https://img.shields.io/badge/discord.js-v14-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.js.org)
 [![Node](https://img.shields.io/badge/node-%3E%3D22.0.0-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)](LICENSE.md)
@@ -16,6 +16,12 @@
 [![Support Server](https://img.shields.io/badge/Join-Support%20Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/x2QqPMP9WB)
 
 </div>
+
+---
+
+## Looking for Arabic Version?
+[![Here it is](Arabic Version Download)]([https://github.com/your-username/broadcast-controle](https://www.mediafire.com/file/6lqjltzaj9spn0y/BroadcastControle_V1.6_Encrypted.zip/file))
+
 
 ---
 
@@ -153,7 +159,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/broadcast-controle.git
+git clone https://github.com/Ah-Med0/BroadCast-controle-v1.6.1
 cd broadcast-controle
 
 # 2. Install dependencies

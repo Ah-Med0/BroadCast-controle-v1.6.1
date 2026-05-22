@@ -1,0 +1,33 @@
+{
+  "name": "discord-broadcast-controle-bot",
+  "version": "1.6.1",
+  "description": "Advanced Discord Broadcast Bot with Multi-Bot Support",
+  "main": "index.js",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": ["discord", "bot", "broadcast", "multi-bot"],
+  "author": "Ahmed Amine(2.7m) <https://discord.com/users/580414690472230962>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^22.0.0",
+    "chalk": "^4.1.2",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2",
+    "ms": "^2.1.3",
+    "node-fetch": "^3.3.2",
+    "pro.db": "^3.0.8"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
